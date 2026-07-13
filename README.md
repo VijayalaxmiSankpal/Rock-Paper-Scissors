@@ -42,13 +42,13 @@ This project recreates the classic Rock Paper Scissors game where players compet
 
 ## Home
 
-![Home](./Screenshots/home.jpeg)
+![Home](./Screenshots/home.png)
 
 ---
 
 ## Gameplay
 
-![Gameplay](./Screenshots/gameplay.jpeg)
+![Gameplay](./Screenshots/gameplay.png)
 
 ---
 
